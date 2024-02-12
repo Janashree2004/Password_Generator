@@ -28,13 +28,13 @@ Generating Password using Python.
 ## Usage
 
 **1. Clone the Repository:** Clone this repository to your local machine using the following command:
-            git clone https://github.com/your-username/password-generator.git
+       https://github.com/your-username/password-generator.git
    
 **2. Navigate to the Directory:** Change your current directory to the cloned repository.
-            cd password-generator
+       cd password-generator
    
 **3. Run the Password Generator:** Execute the password generator script, providing any necessary arguments such as password length and character types.
-            python password_generator.py --length 12 --upper --lower --numbers --symbols
+       python password_generator.py --length 12 --upper --lower --numbers --symbols
 Replace the arguments with your desired configuration.
 
 ## Techstack
