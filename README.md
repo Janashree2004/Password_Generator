@@ -51,7 +51,7 @@ Contributions to improve the functionality or usability of the password generato
 
 ## Output
 
-
+![image](https://github.com/Janashree2004/Password_Generator/assets/142415775/4730d6e8-f949-4e5f-abe0-1f271ff9e912)
 
 ## License
 
